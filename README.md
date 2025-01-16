@@ -15,7 +15,7 @@ A React Native application for displaying recipes, featuring user authentication
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Bhookj-app/bhookh-app.git
+git clone https://github.com/Bhookh-app/bhookh-app.git
 cd bhookh-app
 ```
 
